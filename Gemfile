@@ -8,6 +8,7 @@ gem 'RedCloth'
 gem 'kramdown'
 gem 'travis'
 gem 'hub', :github => 'github/hub', :tag => 'v1.12.2'
+gem 'jekyll-textile-converter'
 
 group :livereload do
   gem 'guard-livereload'

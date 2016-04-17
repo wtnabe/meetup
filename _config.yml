@@ -1,3 +1,6 @@
 layout: default
 markdown: kramdown
 exclude: [.git, .bundle, Gemfile, Gemfile.lock, README.md, _config.yml, _layouts, params.json, vendor]
+gems:
+  - jekyll-textile-converter
+textile_ext: "textile,txtl,tl"
