@@ -1,8 +1,6 @@
 ---
-
-layout: record
 title: "#12 report - KPT log"
-
+layout: record
 ---
 
 <p> <a href="./report.html">← report</a></p>

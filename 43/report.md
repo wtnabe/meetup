@@ -1,8 +1,6 @@
 ---
-
-layout: record
 title: "#43 report"
-
+layout: record
 ---
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div> 

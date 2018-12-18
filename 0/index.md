@@ -1,8 +1,6 @@
 ---
-
-layout: record
 title: "#0 boot loader"
-
+layout: record
 ---
 
 やった

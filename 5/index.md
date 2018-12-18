@@ -1,8 +1,6 @@
 ---
-
-layout: record
 title: "#5"
-
+layout: record
 ---
 
 <p>

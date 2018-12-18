@@ -1,9 +1,8 @@
 ---
-
-layout: record
 title: "#45"
-
+layout: record
 ---
+
 <!--
 
 終了後記入

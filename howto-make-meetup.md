@@ -1,8 +1,6 @@
 ---
-
-layout: toplevel
 title: How to make meetup
-
+layout: toplevel
 ---
 
 [← Meetup](./)

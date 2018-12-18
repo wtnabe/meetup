@@ -1,8 +1,6 @@
 ---
-
 title: Meetup
 layout: toplevel
-
 ---
 
 <p style="text-align: right;">

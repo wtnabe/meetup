@@ -1,9 +1,7 @@
 ---
-
-layout: record
 title: "#33"
-date: 2015-05-16 (Sat)
-
+date: 2015-05-16 00:00:00 Z
+layout: record
 ---
 
 <p>

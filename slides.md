@@ -1,8 +1,6 @@
 ---
-
-layout: toplevel
 title: Kanazawa.rb Slides
-
+layout: toplevel
 ---
 
 [← Meetup](./)

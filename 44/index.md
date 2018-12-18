@@ -1,9 +1,6 @@
 ---
-
-layout: record
 title: "#44"
-# published: false
-
+layout: record
 ---
 
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
