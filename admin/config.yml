@@ -5,4 +5,14 @@ collections:
   - 
     name: meetup
     folder: .
+    fields: 
+      - 
+        label: Layout
+        name: layout
+        widget: select
+        options: ["record", "toplevel"]
+      - 
+        label: Title
+        name: title
+        widget: string
 media_folder: images/uploads/
