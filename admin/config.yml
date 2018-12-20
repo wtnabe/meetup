@@ -5,7 +5,8 @@ collections:
   - 
     label: Meetup
     name: meetup
-    folder: /
+    folder: '*'
+    extension: md
     identifier_field: name
     fields: 
       - 
