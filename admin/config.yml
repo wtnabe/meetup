@@ -3,6 +3,7 @@ backend:
   branch: gh-pages # Branch to update (optional; defaults to master)
 collections:
   - 
+    label: Meetup
     name: meetup
     folder: .
     fields: 
